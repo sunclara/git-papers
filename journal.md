@@ -9,6 +9,10 @@ This is a very important problem that I have been trying to solve.
 
 I got some very cool results for the paper. 
 
+## Figures
+
+Really beautiful figures, lots of colourful data.
+
 ## References
 Smith, J (2020).
 
