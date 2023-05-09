@@ -1,5 +1,6 @@
 # This is my super cool paper
 written by: ME
+My affilitation: Western University
 co-author: Fariah and Zara
 
 ## Introduction
