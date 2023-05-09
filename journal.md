@@ -1,5 +1,5 @@
-# This is my super cool paper
-written by: ME
+# This is our super cool paper
+written by: ME, and Jess !
 co-author: Fariah and Zara
 
 ## Introduction
