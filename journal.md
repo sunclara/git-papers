@@ -2,7 +2,7 @@
 written by: ME
 My affilitation: Western University
 co-author: Fariah and Zara
-And all of my friends, who are talented writers.
+And all of my friends, who are talented writers and scientists.
 
 ## Introduction
 This is a very important problem that I have been trying to solve.
