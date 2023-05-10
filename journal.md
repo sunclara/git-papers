@@ -1,6 +1,6 @@
 # This is my super cool paper
 written by: ME
-My affilitation: Western University
+My affilitation: Western University (UWO)
 co-author: Fariah and Zara
 And all of my friends, who are talented writers and scientists.
 
